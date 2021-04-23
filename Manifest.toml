@@ -204,11 +204,9 @@ uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 [[MPSGE]]
 deps = ["Complementarity", "JuMP", "MacroTools"]
-git-tree-sha1 = "582debdf522fa99538017504997585c95874e739"
-repo-rev = "master"
-repo-url = "https://github.com/anthofflab/MPSGE.jl.git"
+git-tree-sha1 = "e2df016d1d9ae9906a624ed785c3509674d47a56"
 uuid = "d5dc2f44-7ae2-49e9-bc77-b47b6bca565d"
-version = "0.1.1-DEV"
+version = "0.2.0"
 
 [[MacroTools]]
 deps = ["Markdown", "Random"]
