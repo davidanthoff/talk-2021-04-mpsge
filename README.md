@@ -1,4 +1,6 @@
-# Demo code for David Anthoff's at the WiNDC Annual Meeting 2021
+# MPSGE.jl demo code
+
+This is the demo I showed at my talk at the WiNDC Annual Meeting 2021.
 
 You can run the demo code in the cloud on https://mybinder.org via the following link:
 
